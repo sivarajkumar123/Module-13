@@ -34,7 +34,8 @@ To write a Python program to convert a given Infix expression to Postfix express
 ```
 
 ### OUTPUT
-
+![image](https://github.com/user-attachments/assets/b584ede9-ab78-4a37-ba30-ba42444c0fd1)
 
 ### RESULT
 
+Thus, the given python program is implemented and executed sucessfully.
